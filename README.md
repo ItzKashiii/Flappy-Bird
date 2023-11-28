@@ -3,8 +3,8 @@
 
 <h4 align="A simple Flappy Bird game that is made in Python/PyGame.</h4>
 
-<h5>Github Deploy</h5>
-<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy+Bird.zip/"><strong>🡆 Download and Play the App!</strong></a>
+<h5>Download</h5>
+<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy_Bird.zip/file"><strong>🡆 Download and Play the App!</strong></a>
 
 ### Output
 ![Game](./images/game.png "Game Example")

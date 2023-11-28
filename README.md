@@ -5,8 +5,10 @@
 
 <h5>Github Deploy</h5>
 <a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
+</div>
 
-### Output
+<div>
+<h6>Output</h6>
 ![Game](./images/game.png "Game Example")
 </div>
 

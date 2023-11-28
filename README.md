@@ -4,12 +4,12 @@
 <h4 align="A simple Flappy Bird game that is made in Python/PyGame.</h4>
 
 <h5>Github Deploy</h5>
-<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy+Bird.zip/file"><strong>🡆 Download and Play the App!</strong></a>
+<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy+Bird.zip/"><strong>🡆 Download and Play the App!</strong></a>
 </div>
 
-### Output
+<div align="center">### Output
 ![Game](./images/game.png "Game Example")
-
+</div>
 
 ### Clone and Run
 To run this __**Flappy Bird Game**__, type and this command in Windows Powershell or other Terminal:

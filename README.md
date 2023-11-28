@@ -7,10 +7,6 @@
 <a href="https://itzkashiii.github.io/KPOP-Music-Player/"><strong>🡆 Live Website</strong></a>
 </div>
 
-<div>
-<h6>Output</h6>
-![Game](./images/game.png "Game Example")
-</div>
 
 ### Clone and Run
 To run this __**Flappy Bird Game**__, type and this command in Windows Powershell or other Terminal:

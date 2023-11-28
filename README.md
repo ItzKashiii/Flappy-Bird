@@ -4,10 +4,7 @@
 <h4 align="center">A simple Flappy Bird game that is made in Python/PyGame.</h4>
 
 <h5>Download</h5>
-<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy_Bird.zip/file"><strong>🡆 Live Website</strong></a>
-
-<h5>Repl.it Deploy</h5>
-<a href="https://kpop-music-player.yuiishiro01.repl.co/"><strong>🡆 Live Website</strong></a>
+<a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy_Bird.zip/file"><strong>🡆 Download and Play the App!</strong></a>
 </div>
 
 ### Simple Loading Screen

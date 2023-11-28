@@ -5,9 +5,8 @@
 
 <h5>Github Deploy</h5>
 <a href="https://www.mediafire.com/file/w2hw3s10w2k06t9/Flappy+Bird.zip/"><strong>🡆 Download and Play the App!</strong></a>
-</div>
 
-<div align="center">### Output
+### Output
 ![Game](./images/game.png "Game Example")
 </div>
 
